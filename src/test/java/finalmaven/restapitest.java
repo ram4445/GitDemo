@@ -7,6 +7,13 @@ public class restapitest {
 	public void postman()
 	{
 		System.out.println("postman");
+		System.out.println("postman2");
+		System.out.println("postman3");
+		System.out.println("postman4");
+
+	
+	
+	
 	}
 
 	@Test
